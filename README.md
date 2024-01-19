@@ -21,7 +21,7 @@
     node index.js
     ```
 
-   The server will be running on `http://localhost:8000`.
+   The server will be running on `http://localhost:8000/api/users`.
 
 ### Starting the Client
 
